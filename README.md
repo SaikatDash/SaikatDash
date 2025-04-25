@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @SaikatDash
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science and engineering
-- 💞️ I’m looking to collaborate in begineer projects
-- 📫  i have a good knowledge in c and python.
+- 👋 Hi, I’m @SaikatDas
+- Aspiring Data Analyst
+- DSA Java,Python Oops-intermidiate
+- Power BI,MYSQL,mongoDB,Hadoop
+- Hacktoberfest 2025 contributor
+- Navi mumbai ignite fest 2024 participant
+-   IIEST shibpur Brain Dead Competition participant runner up 
 
 <!---
 SaikatDash/SaikatDash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
