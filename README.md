@@ -12,7 +12,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaikatDash&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 ## 🧰 Tech Stack:
@@ -35,48 +35,40 @@
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaikatDash&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaikatDash&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaikatDash&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatDash&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, JavaScript, C++  
+- **Languages:** Python, JavaScript, Java  
 - **ML / DL:** Scikit‑learn, TensorFlow / PyTorch, Pandas, NumPy  
-- **Web:** HTML, CSS, React / Django / Flask  
+- **Web:** HTML, CSS, React / Django / Flask / Fast  
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code, Docker  
 
 ---
 
 ### 📫 How to reach me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: sd449420@gmail.com/sd449420@outlook.com 
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](linkedin.com/in/saikat-das-318a6a216)  
 - 🌐 Portfolio: [your-portfolio.com](on process)  
 
-
-- Aspiring Data Analyst
-- DSA Java,Python Oops-intermidiate
-- Power BI,MYSQL,mongoDB,Hadoop
-- Web Development HTML,CSS,JavaScript
-- Hacktoberfest 2025 contributor
-- Navi mumbai ignite fest 2024 participant
--   IIEST shibpur Brain Dead Competition participant runner up 
 
 <!---
 SaikatDash/SaikatDash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
