@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="https://user-gen-media-assets.s3.amazonaws.com/gemini_images/a5e40683-de4d-4c17-952a-745a8ce7b035.png"
+    src="https://user-gen-media-assets.s3.amazonaws.com/gemini_images/f1639d33-5d04-4665-b6a3-6afb01158281.png"
     alt="Saikat Das - Aspiring Data Scientist"
     width="1000"
-    height="300"
-/>
+  />
+</p>
+
 </p>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <br>
