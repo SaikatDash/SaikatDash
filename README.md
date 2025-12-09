@@ -2,7 +2,9 @@
   <img
     src="https://user-gen-media-assets.s3.amazonaws.com/gemini_images/f1639d33-5d04-4665-b6a3-6afb01158281.png"
     alt="Saikat Das - Aspiring Data Scientist"
-    width="500"
+    width="1000"
+height = "400"
+
   />
 </p>
 
