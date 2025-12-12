@@ -24,7 +24,7 @@ height = "400"
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/641501920644694018) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saikat9714) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/saikat-das-318a6a216) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ProgramerGeek42) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sd449420@gmail.com) 
 
  </p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C853&center=true&vCenter=true&width=800&lines=Real-time+Health+Monitoring+Dashboard; alt="typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C853&center=true&vCenter=true&width=800" alt="typing animation">
 <br>
 
 # 💻 Tech Stack:
