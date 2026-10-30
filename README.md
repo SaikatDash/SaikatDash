@@ -13,11 +13,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — 2026
 
 | GitHub statistics | Most-used languages |
 |:---:|:---:|
-| ![Saikat's GitHub statistics](https://github-stats-extended.vercel.app/api?username=SaikatDash&show_icons=true&theme=radical&hide_border=true) | ![Saikat's most-used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SaikatDash&layout=compact&theme=radical&hide_border=true) |
+| ![Saikat's 2026 GitHub statistics](https://github-stats-extended.vercel.app/api?username=SaikatDash&commits_year=2026&show_icons=true&theme=radical&hide_border=true) | ![Saikat's most-used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SaikatDash&layout=compact&theme=radical&hide_border=true) |
 
 ![Saikat's GitHub contribution streak](https://streak-stats.demolab.com/?user=SaikatDash&theme=radical&hide_border=true)
 
