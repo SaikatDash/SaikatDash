@@ -1,51 +1,58 @@
- 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="260" style="border:0; outline:none; box-shadow:none; margin-left:16px; margin-bottom:12px;" />
+<div align="right">
+  <img align="right" alt="Coding animation" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="260" style="border:0; outline:none; box-shadow:none; margin-left:16px; margin-bottom:12px;" />
+</div>
 
-# Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" />
+# Welcome to my world 🌍
 
-- 🔭 I'm currently working on — **Data Science & Machine Learning and Arrificial Intelligence**.
-- 🌱 I'm currently learning — **Deep Learning, NLP, Computer Vision,Cloud Developments,MLOPS**.
-- 🤝 I've recently worked with communities such as **Postman Community** and **Samarth Community** as a **Graphic Designer**.
-- 🧑‍💻 Contributed to open source communities such as **Hacktoberfest 2024**.
-- 🚀 My GitHub focus — **Building end‑to‑end ML projects, production‑ready APIs, and insightful dashboards**.
-- 💬 Ask me about — **Python, ML pipelines, model deployment, and data visualization**.
-- ⚡ Words that describe me — **Self‑motivated, Focused, Curious, Hardworking & Detail‑oriented**.
-- ❤️ Passionate about **Real-World-problem**-solving.
+- 🔭 I’m working on **Data Science, Machine Learning, and Artificial Intelligence**.
+- 🌱 I’m learning **Deep Learning, NLP, Computer Vision, Cloud Development, and MLOps**.
+- 🤝 I’ve worked with the **Postman** and **Samarth** communities as a **Graphic Designer**.
+- 🧑‍💻 I contributed to open-source projects through **Hacktoberfest 2024**.
+- 🚀 My GitHub focus is building **end-to-end ML projects, production-ready APIs, and insightful dashboards**.
+- 💬 Ask me about **Python, ML pipelines, model deployment, and data visualization**.
+- ⚡ I’m **self-motivated, focused, curious, hardworking, and detail-oriented**.
+- ❤️ I’m passionate about solving **real-world problems**.
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SaikatDash&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaikatDash&show_icons=true&theme=radical&hide_border=true" alt="Saikat's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatDash&layout=compact&theme=radical&hide_border=true" alt="Saikat's most-used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=SaikatDash&theme=radical&hide_border=true" alt="Saikat's GitHub contribution streak" />
 </div>
 
 ## 🌐 Socials
+
 <div align="center">
-  <a href="https://discord.gg/641501920644694018"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://instagram.com/saikat9714"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/saikat-das-318a6a216"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/ProgramerGeek42"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://discord.gg/641501920644694018"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/saikat9714"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/saikat-das-318a6a216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/ProgramerGeek42"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:sd449420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ## 💻 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Scipy-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Scipy" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/Swagger-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/FasstAPI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="FastAPI" />
 
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </div>
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Profile stats are generated by their respective services and can be briefly cached. -->
