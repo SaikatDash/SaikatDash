@@ -54,6 +54,8 @@
   <img height="165" alt="Most-used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaikatDash&layout=compact&theme=radical&hide_border=true" />
   <br />
   <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=SaikatDash&theme=radical&hide_border=true" />
+  <br />
+  <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaikatDash&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
