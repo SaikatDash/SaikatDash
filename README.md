@@ -10,6 +10,7 @@
     <a href="https://x.com/ProgramerGeek42"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>
     <a href="mailto:sd449420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SaikatDash&label=Profile%20views&color=7e3ace&style=flat" />
 </div>
 
 ---
