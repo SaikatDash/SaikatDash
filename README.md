@@ -59,6 +59,10 @@
   <img alt="GitHub contribution graph" src="https://ghchart.rshah.org/7e3ace/SaikatDash" />
 </div>
 
+## 👀 Public Repository Watch Status
+
+Currently, all public repositories have **0 watchers**. My most recently active public repository is [Coding-Plateforms-Question-Practice](https://github.com/SaikatDash/Coding-Plateforms-Question-Practice).
+
 ---
 
 <div align="center">
