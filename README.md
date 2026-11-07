@@ -6,7 +6,7 @@
   <p>
     <a href="https://discord.gg/641501920644694018"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
     <a href="https://linkedin.com/in/saikat-das-318a6a216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/codecrafteryt"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://instagram.com/codecraftersyt"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://x.com/ProgramerGeek42"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>
     <a href="mailto:sd449420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
