@@ -55,7 +55,7 @@
   <br />
   <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=SaikatDash&theme=radical&hide_border=true" />
   <br />
-  <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaikatDash&theme=react-dark&hide_border=true&area=true" />
+  <img alt="GitHub contribution graph" src="https://ghchart.rshah.org/7e3ace/SaikatDash" />
 </div>
 
 ---
